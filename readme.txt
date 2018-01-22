@@ -5,4 +5,5 @@ www.tencent.com
 www.phicomm.com
 git tracks files
 push local to remote
-add a new branch
+add a new branches
+branch develop upload
